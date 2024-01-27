@@ -38,3 +38,11 @@ footer {
     background: #333;
     color: #fff;
 }
+
+.center {
+    text-align: center;
+}
+
+.repad {
+    padding: 5px;
+}
